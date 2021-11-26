@@ -22,3 +22,12 @@ Robbolito 0.85g3 original 2009 source code developed from the famous ground brea
 
 for more info:
 http://users.telenet.be/chesslogik/robbolito.htm
+
+also please see:
+https://en.wikipedia.org/wiki/IPPOLIT
+
+Here is the official website via the Wayback Machine (archived November 12, 2011):
+https://web.archive.org/web/20111112091 ... paces.com/
+There's a lot to read, if interested in this incredible project.
+
+
