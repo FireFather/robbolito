@@ -27,7 +27,8 @@ also please see:
 https://en.wikipedia.org/wiki/IPPOLIT
 
 Here is the official website via the Wayback Machine (archived November 12, 2011):
-https://web.archive.org/web/20111112091 ... paces.com/
-There's a lot to read, if interested in this incredible project.
+
+https://web.archive.org/web/20111112091208/http://ippolit.wikispaces.com/
+There's a lot to read about this incredible project.
 
 
