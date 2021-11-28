@@ -48,7 +48,7 @@ void zobrist_free()
 int initialization_zobrist( int mb )
     {
     YEARS = 0;
-    zobrist_dimension = ((1 << BSR(mb)) << 20) / sizeof(type_zobrist);
+    zobrist_dimension = ((1ULL << BSR(mb)) << 20) / sizeof(type_zobrist);
 
     if( zobrist_dimension > 0x100000000 )
         zobrist_dimension = 0x100000000;
