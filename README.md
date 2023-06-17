@@ -1,5 +1,5 @@
 # robbolito
-Robbolito 0.85g3 original 2009 source code..developed from the famous ground breaking Ippolit release
+**Robbolito 0.85g3 original 2009 source code..developed from the famous ground breaking Ippolit release**
 
 ![alt tag](https://raw.githubusercontent.com/FireFather/robbolito/master/logos/robbolito.png)
 ![alt tag](https://raw.githubusercontent.com/FireFather/robbolito/master/logos/robbolite.bmp)
